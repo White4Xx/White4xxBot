@@ -1,24 +1,24 @@
-# 𝐂𝐀𝐓𝐁𝐎𝐓
+# 𝗪𝗛𝗜𝗧𝗘𝟰𝗫𝗫
 <div align="center">
-        <img border-radius: 15px src="https://i.imgur.com/TqCHb2w.jpg" width="200" height="200"/>
+        <img border-radius: 15px src="https://telegra.ph/file/2be0a50a99f3f4d52ebc5.jpg" width="200" height="200"/>
 </p>
 
 <div align="center">
 
-## [![catbots](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+catbots+WA+Bot+repo;Created+by+basil+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![White4xxBot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+White4xxBot+WA+Bot+repo;Created+by+White4xx;This+is+the+Best++Bgm+bot;With+more+features)]
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="BASILSER" src="https://img.shields.io/badge/BASILSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White4Xx" src="https://img.shields.io/badge/WHITE4XX-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/White4Xx"><img title="Author" src="https://img.shields.io/badge/Author-White4Xx-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to make it public
+Project created by <a href="https://github.com/White4Xx">,White4Xx</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,29 +29,18 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/mohammed_basil_12?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://www.instagram.com/justbanthatthing?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-</p>
-  
 
-<p align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebasil0&show_icons=true&theme=dark&locale=en" alt="itsmebasil0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="itsmebasil0" /></p>
-</p>
 
 
 ##
   <h3 align="center">📢 Support Group 1:</h3>
 <p align="center">
-Click WA logo to Join Support Group 👇
+Click WA logo to Contact me on whatsapp👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://wa.me/12793562605?text=user" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
    
 ## Setup
@@ -61,7 +50,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmebasil/Catbots)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/itsmebasil0/catbots.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/White4Xx/catbots.git)
      </div>
 <br>
 <br >
@@ -81,8 +70,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/White4Xx/White4xxBot
+$ cd White4xxBot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -91,8 +80,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/White4Xx/White4xxBot
+$ cd White4xxBot
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -112,9 +101,9 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![itsmebasil0](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) | 
+  [![White4Xx](https://github.com/White4Xx.png?size=100)](https://github.com/White4Xx) | 
 ----|
-[BASILSER](https://github.com/itsmebasil0)
+[WHITE4XX](https://github.com/White4Xx)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
