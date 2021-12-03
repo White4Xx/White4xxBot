@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "Manglish",
     "LANGCODE": "ml",
-    "AUTHOR": "Afnan-plk",
+    "AUTHOR": "Njan",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -223,7 +223,7 @@
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Catbot Restarting..*"
+            "AFTER_UPDATE": "*😎 White4xxBot Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
