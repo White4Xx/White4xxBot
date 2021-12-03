@@ -402,8 +402,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *CATBOT ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng \n Report errors\njoin with +91 \n https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *WHITE4XXBOT ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Contact me to get updates and to remove errors:* https://wa.me/12793562605?text=user \n Report errors\njoin with +91 \n https://chat.whatsapp.com/EFYFViOfmgA9G17RvdGiQJ``` ' 
                                     , MessageType.text);
                             }
                         }
