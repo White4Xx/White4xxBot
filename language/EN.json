@@ -8,7 +8,7 @@
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
-            "NOT_FOUND": "*I couldnt find a command like this*",
+            "NOT_FOUND": "*Nee enth thengayaada ee parayane🙄*",
             "WARN": "Warn"
         },
         "_plugin": {
@@ -186,12 +186,12 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*✮⃝🕊️𝕯𝖔𝖜𝖓𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖄𝖔𝖚𝖗 𝕾𝖔𝖓𝖌✮⃝🕊️*\n",
+            "DOWNLOADING_SONG": "\n*pattu ippa tharaave.. Downloading aan😊️*\n",
             "UPLOADING_SONG": "\n*✮⃝🕊️✿𝖀𝖕𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖄𝖔𝖚𝖗 𝕾𝖔𝖓𝖌✿✮⃝🕊️*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=*********```",
             "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
-            "UPLOADING_VIDEO": "```Uploading...```",
+            "UPLOADING_VIDEO": "```Kitti Mwone💥...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -223,7 +223,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😺 Catbot Restarting*"
+            "AFTER_UPDATE": "*😺 White4xxBot Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -278,7 +278,7 @@
             "TITLE": "Title",
             "PUBLICATION": "Publication",
             "SONGL": "Link",
-            "NEED_SONG": "Song name para nenba 🥲.",
+            "NEED_SONG": "Song name para nanba 🥲.",
             "NOT_FOUNDS" : "No such songs found!",
             "JOOX_DESC": "Brings you the song details and a link for it.",
             "LYRICS_DESC": "Brings you the song Lyrics.",
