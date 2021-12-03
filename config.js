@@ -46,9 +46,9 @@ module.exports = {
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
-    BOTSK: process.env.BOT_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴄᴀᴛʙᴏᴛ࿐' : process.env.BOT_NAME,
+    BOTSK: process.env.BOT_NAME === undefined ? '𝗪𝗛𝗜𝗧𝗘𝟰𝗫𝗫࿐' : process.env.BOT_NAME,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg' : process.env.ALL_IMG,
-    SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/mohammed_basil_12/' : process.env.SOCIAL_MEDIA,
+    SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/justbanthatthing/' : process.env.SOCIAL_MEDIA,
     TAGPLK: process.env.TAG_HEADER === undefined ? '*Attention please 📢*' : process.env.TAG_HEADER,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
@@ -67,7 +67,5 @@ module.exports = {
     DEBUG: DEBUG,
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "919946432377-1627138839",
-    SUPPORT2: "919074309534-1632403322",
-    SUPPORT3: "905511384572-1621015274"
+    
 };
